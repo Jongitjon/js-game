@@ -1,0 +1,17 @@
+.synonyms {
+    color: white;
+    font-family: 'Modak', cursive;
+    text-align: center;
+    margin-top: 50px;
+}
+
+body {
+    background-color: grey;
+   font-size: 100px;
+}
+
+.btn {
+    color: #0099CC; 
+    border: 4px solid #0099CC;
+    border-radius: 25px;
+}
